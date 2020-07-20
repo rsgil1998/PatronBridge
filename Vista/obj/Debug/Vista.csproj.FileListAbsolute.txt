@@ -1,0 +1,10 @@
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\bin\Debug\Vista.exe.config
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\bin\Debug\Vista.exe
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\bin\Debug\Vista.pdb
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.EncriptacionDe.resources
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.exe
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\patrón Bridge\Implementacion\Vista\obj\Debug\Vista.pdb
